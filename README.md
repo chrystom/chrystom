@@ -2,10 +2,12 @@
   - 🔭 I’m currently working on low-level stuff.
   - 🌱 I’m currently learning C++ and Rust.
   - 📫 How to reach me: flido#2858 on Discord
-  - 😄 Pronouns: he/him
 
 ## &#x1f4c8; GitHub Stats
+<!---
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2si1qa7hb3ha9nnkdcl0xvcc&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=0de31b&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=r2si1qa7hb3ha9nnkdcl0xvcc&redirect=true)
+-->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2si1qa7hb3ha9nnkdcl0xvcc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <a href="https://github.com/chrystom/chrystom">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystom&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
