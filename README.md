@@ -1,7 +1,7 @@
 ## Hey, my name is chrystom
   - 🔭 I’m currently working on low-level stuff.
   - 🌱 I’m currently learning C++ and Rust.
-  - 📫 How to reach me: flido#2858 on Discord
+  - 📫 How to reach me: flido#2858 on Discord or `chrystomt@gmail.com`
 
 ## &#x1f4c8; GitHub Stats
 <!---
